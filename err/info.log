@@ -24,3 +24,7 @@
 {"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:28:50.129Z"}
 {"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:29:27.013Z"}
 {"level":"error","message":"ERRO - Requisicao JWT local. Erro:null FROM: id:Usuario null ","timestamp":"2021-07-13T12:29:35.251Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:36:47.265Z"}
+{"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T12:36:59.729Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:37:55.418Z"}
+{"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T12:37:59.245Z"}
