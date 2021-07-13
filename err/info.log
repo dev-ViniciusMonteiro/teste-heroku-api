@@ -12,3 +12,15 @@
 {"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:14:26.699Z"}
 {"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:14:30.214Z"}
 {"level":"info","message":"Requisicao GET /login","timestamp":"2021-07-13T12:14:32.458Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:25:11.944Z"}
+{"level":"info","message":"Requisicao GET /login","timestamp":"2021-07-13T12:25:14.846Z"}
+{"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:25:17.279Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:25:40.228Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:26:06.589Z"}
+{"level":"info","message":"Requisicao GET /login","timestamp":"2021-07-13T12:26:21.218Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:28:08.660Z"}
+{"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:28:15.389Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:28:38.989Z"}
+{"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:28:50.129Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:29:27.013Z"}
+{"level":"error","message":"ERRO - Requisicao JWT local. Erro:null FROM: id:Usuario null ","timestamp":"2021-07-13T12:29:35.251Z"}
