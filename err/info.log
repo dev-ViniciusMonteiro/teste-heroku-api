@@ -26,3 +26,5 @@
 {"level":"error","message":"ERRO - Requisicao JWT local. Erro:null FROM: id:Usuario null ","timestamp":"2021-07-13T12:29:35.251Z"}
 {"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T13:48:57.825Z"}
 {"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T13:49:13.173Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T14:40:27.769Z"}
+{"level":"info","message":"Requisicao GET /item/","timestamp":"2021-07-13T14:40:38.142Z"}
