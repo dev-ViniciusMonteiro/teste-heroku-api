@@ -9,7 +9,8 @@
 {"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:11:14.804Z"}
 {"level":"info","message":"Requisicao GET /login","timestamp":"2021-07-13T12:11:20.535Z"}
 {"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:11:40.924Z"}
-{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:55:12.967Z"}
-{"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T12:55:28.297Z"}
-{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:59:44.758Z"}
-{"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T12:59:50.100Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T12:14:26.699Z"}
+{"level":"info","message":"Requisicao GET /reserva/","timestamp":"2021-07-13T12:14:30.214Z"}
+{"level":"info","message":"Requisicao GET /login","timestamp":"2021-07-13T12:14:32.458Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T13:17:21.913Z"}
+{"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T13:17:28.922Z"}
