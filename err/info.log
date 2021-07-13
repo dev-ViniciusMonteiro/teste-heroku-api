@@ -14,3 +14,5 @@
 {"level":"info","message":"Requisicao GET /login","timestamp":"2021-07-13T12:14:32.458Z"}
 {"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T13:17:21.913Z"}
 {"level":"info","message":"Requisicao GET /tipo/","timestamp":"2021-07-13T13:17:28.922Z"}
+{"level":"info","message":"Servidor rodando na porta: 3000","timestamp":"2021-07-13T17:45:46.765Z"}
+{"level":"info","message":"Requisicao GET /itemUsuario/","timestamp":"2021-07-13T17:46:10.499Z"}
